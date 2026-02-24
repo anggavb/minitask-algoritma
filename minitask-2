@@ -1,8 +1,8 @@
 1. Mulai
-2. Masukkan nilai jari-jari lingkaran (10)
-3. Inisialisasi nilai Pi (3,14)
-4. Hitung luas lingkaran (3,14 * 10 * 10)
-5. Hasil luas lingkaran ditemukan (314)
-4. Hitung keliling lingkaran (2 * 3,14 * 10)
-5. Hasil keliling lingkaran ditemukan (62,8)
-6. Selesai
+2. Masukkan nilai jari-jari lingkaran (r)
+3. Inisialisasi nilai Pi (3,14 atau 22/7)
+4. Hitung luas lingkaran (Pi * r * r)
+5. Hasil luas lingkaran ditemukan (L)
+6. Hitung keliling lingkaran (2 * Pi * r)
+7. Hasil keliling lingkaran ditemukan (K)
+8. Selesai
