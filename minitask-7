@@ -1,0 +1,16 @@
+FUNCTION ElectricityBillCalculation
+	DECLARE usage, price : num
+BEGIN
+	INPUT(usage)
+	IF usage <= 100
+	THEN
+		price <- 2000
+	ELSE IF usage <= 200
+	THEN
+		price <- 3000
+	ELSE
+		price <- 5000
+	END IF
+	
+	OUTPUT(“Nominal yang harus anda bayarkan sebesar”, price)
+END
