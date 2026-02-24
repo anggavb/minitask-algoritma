@@ -1,3 +1,5 @@
+Algoritma Deskriptif: Menentukan Bilangan X Apakah Ganjil atau Genap
+----------------------------------------------------------------------------------------
 1. Mulai
 2. Tentukan nilai dari variable x
 3. Jika x habis dibagi 2 (modulo) maka x adalah bilangan genap
