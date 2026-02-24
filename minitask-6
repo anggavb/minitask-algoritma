@@ -1,0 +1,17 @@
+DECLARE purcase, totalPurcase : num
+DECLARE discount : float
+
+IF purchase >= 500000
+THEN
+	IF purchase > 1000000
+		THEN
+			discount = 0.1
+		ELSE
+			discount = 0.05
+ELSE
+  discount = 0
+ENDIF
+
+totalPurcase <- purcase - (purcase * discount)
+
+OUTPUT "Diskon anda sebesar " discount " dengan total harga " totalPurcase
